@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Arshan Dabirsiaghi](arshan.dabirsiaghi@contrastsecurity.com)
+* [Arshan Dabirsiaghi](mailto:)
