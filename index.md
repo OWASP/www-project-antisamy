@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
+title: OWASP Antisamy
 tags: example-tag
 level: 4
 type: example
