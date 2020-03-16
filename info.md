@@ -1,17 +1,17 @@
-### [GROUPNAME] Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
-
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Project Information
+* <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
+* <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
 
 ### Code Repository
-* [repo](#)
+* [Source code](https://github.com/nahsra/antisamy)
 
-### Change Log
-* [changes](#)
+### Downloads
+* [Git clone URL](https://github.com/nahsra/antisamy.git)
+
+### Contacts
+* [Report an issue](https://github.com/nahsra/antisamy/issues)
+* [Contributing](mailto://dave.wichers@owasp.org)
+
+### Licensing
+* [CC Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/)
 
