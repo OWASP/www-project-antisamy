@@ -13,5 +13,4 @@
 * [Contributing](mailto://dave.wichers@owasp.org)
 
 ### Licensing
-* [CC Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/)
-
+* [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
