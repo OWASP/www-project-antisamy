@@ -1,6 +1,6 @@
 ---
 
-title: how_do_I_get_started
+title: how_do_i_get_started
 displaytext: How do I get started?
 layout:  null
 tab: true
