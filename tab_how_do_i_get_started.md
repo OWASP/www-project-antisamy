@@ -62,8 +62,8 @@ larger. The following tags appear to be accepted by eBay (they don't publish rul
 networking site. Users were allowed to submit pretty much all HTML and CSS they want - as long as it doesn't 
 contain JavaScript. MySpace was using a word blacklist to validate users' HTML, which is why they were subject 
 to the infamous Samy worm: 
-[Article: The MySpace Worm that Changed the Internet Forever](https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever),
-[In Samy's own words](https://samy.pl/myspace/). The Samy worm, which used fragmentation attacks combined 
+[Article: The MySpace Worm that Changed the Internet Forever](https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
+and another [In Samy's own words](https://samy.pl/myspace/). The Samy worm, which used fragmentation attacks combined 
 with a word that should have been blacklisted (eval) - was the inspiration for the project.
 
 4) antisamy-anythinggoes.xml
