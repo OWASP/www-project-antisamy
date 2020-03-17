@@ -50,27 +50,26 @@ Under these guidelines, AntiSamy is distributed under a
 ### What is AntiSamy?
 OWASP AntiSamy provides:
 
-(This page)[https://wiki.owasp.org/index.php/AntiSamy_Version_Differences] shows a big-picture comparison between 
+[This page](https://wiki.owasp.org/index.php/AntiSamy_Version_Differences) shows a big-picture comparison between 
 the versions. Since it's an unfunded open source project, the ports can't be expected to mirror functionality 
 exactly. If there's something a port is missing -- let us know, and we'll try to accommodate, or write a patch!
 
 ### Presentations
 From OWASP & WASC AppSec U.S. 2007 Conference (San Jose, CA): AntiSamy: 
-[Picking a Fight with XSS (ppt)](http://www.owasp.org/images/e/e9/OWASP-WASCAppSec2007SanJose_AntiSamy.ppt) 
-- by Arshan Dabirsiaghi - AntiSamy project lead
+[Picking a Fight with XSS (ppt)](http://www.owasp.org/images/e/e9/OWASP-WASCAppSec2007SanJose_AntiSamy.ppt) - 
+by Arshan Dabirsiaghi - AntiSamy project lead
 
 From OWASP AppSec Europe 2008 (Ghent, Belgium): 
-[The OWASP AntiSamy project (ppt)](http://www.owasp.org/images/4/47/AppSecEU08-AntiSamy.ppt) 
-- by Jason Li - AntiSamy project contributor
+[The OWASP AntiSamy project (ppt)](http://www.owasp.org/images/4/47/AppSecEU08-AntiSamy.ppt) - 
+by Jason Li - AntiSamy project contributor
 
 From OWASP AppSec India 2008 (Delhi, India): 
-[Validating Rich User Content (ppt)](https://www.owasp.org/images/9/9d/AppSecIN08-ValidatingRichUserContent.ppt) 
-- by Jason Li - AntiSamy project contributor
+[Validating Rich User Content (ppt)](https://www.owasp.org/images/9/9d/AppSecIN08-ValidatingRichUserContent.ppt) - 
+by Jason Li - AntiSamy project contributor
 
 From Shmoocon 2009 (Washington, DC): 
-AntiSamy - [Picking a Fight with XSS (pptx)](https://slideplayer.com/slide/4360528/) 
-- by Arshan Dabirsiaghi - AntiSamy project lead
+AntiSamy - [Picking a Fight with XSS (pptx)](https://slideplayer.com/slide/4360528/) - 
+by Arshan Dabirsiaghi - AntiSamy project lead
 
 ### News and Events
 [28 Sep 2017] Please update AntiSamy to 1.5.7 or later per CVE-2017-14735 and CVE-2016-10006
-

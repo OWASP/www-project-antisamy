@@ -54,16 +54,18 @@ that operate directly on the font, color or emphasis have been allowed.
 It is a public site so anyone is allowed to post listings with rich HTML content. It's not surprising that 
 given the attractiveness of eBay as a target that it has been subject to a few complex XSS attacks. Listings 
 are allowed to contain much more rich content than, say, Slashdot- so it's attack surface is considerably 
-larger. The following tags appear to be accepted by eBay (they don't publish rules): `<a>`, ...
+larger. The following tags appear to be accepted by eBay (they don't publish rules): `<a>`, `...`
 
 3) antisamy-myspace.xml
 
 [MySpace](https://myspace.com/) was, at the time this project was born, arguably the most popular social 
 networking site. Users were allowed to submit pretty much all HTML and CSS they want - as long as it doesn't 
 contain JavaScript. MySpace was using a word blacklist to validate users' HTML, which is why they were subject 
-to the infamous Samy worm https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever
- https://samy.pl/myspace/. The Samy worm, which used fragmentation attacks combined with a word that should 
-have been blacklisted (eval) - was the inspiration for the project.
+to the infamous Samy worm 
+[https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever]
+(https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever) 
+[https://samy.pl/myspace/](https://samy.pl/myspace/). The Samy worm, which used fragmentation attacks combined 
+with a word that should have been blacklisted (eval) - was the inspiration for the project.
 
 4) antisamy-anythinggoes.xml
 
@@ -83,6 +85,7 @@ versions support them.
 
 ## Stage 4 - Calling the AntiSamy API
 Using AntiSamy is easy. Here is an example of invoking AntiSamy with a policy file:
+
 ```Java
 import org.owasp.validator.html.*;
 
@@ -93,18 +96,22 @@ CleanResults cr = as.scan(dirtyInput, policy);
 
 MyUserDAO.storeUserProfile(cr.getCleanHTML()); // some custom function
 ```
-There are a few ways to create a Policy object. The getInstance() method can take any of the following:
+
+There are a few ways to create a Policy object. The `getInstance()` method can take any of the following:
 * a String filename
 * a File object
 * an InputStream
 
 Policy files can also be referenced by filename by passing a second argument to the AntiSamy:scan() 
 method as the following examples show:
+
 ```Java
 AntiSamy as = new AntiSamy();
-CleanResults cr = as.scan(dirtyInput, policyFilePath);</pre></code>
+CleanResults cr = as.scan(dirtyInput, policyFilePath);
 ```
+
 Finally, policy files can also be referenced by File objects directly in the second parameter:
+
 ```Java
 AntiSamy as = new AntiSamy();
 CleanResults cr = as.scan(dirtyInput, new File(policyFilePath));
@@ -112,10 +119,10 @@ CleanResults cr = as.scan(dirtyInput, new File(policyFilePath));
 
 ## Stage 5 - Analyzing CleanResults
 The CleanResults object provides a lot of useful stuff.
+
 ```Java
 getErrorMessages() - a list of String error messages
 getCleanHTML() - the clean, safe HTML output
 getCleanXMLDocumentFragment() - the clean, safe XMLDocumentFragment which is reflected in getCleanHTML()
 getScanTime() - returns the scan time in seconds
 ```
-
