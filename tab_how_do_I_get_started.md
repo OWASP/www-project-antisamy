@@ -1,10 +1,12 @@
 ---
+
 title: how_do_I_get_started
 displaytext: How do I get started?
 layout:  null
 tab: true
-order: 2
+order: 1
 tags: antisamy
+
 ---
 
 There are 4 steps in the process of integrating AntiSamy. Each step is detailed in the next section, but the high level overview follows:
