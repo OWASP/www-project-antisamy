@@ -1,5 +1,5 @@
 ---
-title: Related_Projects
+title: related_projects
 displaytext: Related Projects
 layout:  null
 tab: true
