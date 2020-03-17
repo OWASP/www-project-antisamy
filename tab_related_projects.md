@@ -1,10 +1,12 @@
 ---
+
 title: related_projects
 displaytext: Related Projects
 layout:  null
 tab: true
-order: 3
+order: 2
 tags: antisamy
+
 ---
 
 The following ports of AntiSamy are known to exist:
