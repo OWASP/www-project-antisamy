@@ -11,12 +11,12 @@ pitch: AntiSamy is a Java component that can sanitize HTML/CSS to eliminate pote
 ---
 <!-- rebuild 40 -->
 
-[![OWASP incubator](https://img.shields.io/badge/owasp-incubator%20project-blue)](https://www2.owasp.org/projects#div-incubator)
+[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-yellow)](https://www2.owasp.org/projects#div-lab)
 
 ## OWASP AntiSamy
 
 AntiSamy was originally authored by Arshan Dabirsiaghi (arshan.dabirsiaghi [at] gmail.com) of Contrast 
-Security with help from Jason Li (jason.li [at] owasp.org) of Aspect Security and is currently maintained by 
+Security with help from Jason Li (jason.li [at] owasp.org) and is currently maintained by 
 Dave Wichers (dave.wichers [at] owasp.org).
 
 ### Description
