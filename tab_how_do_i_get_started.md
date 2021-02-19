@@ -53,7 +53,7 @@ I don't know of a possible use case for this policy file. If you wanted to allow
 ## Stage 3 - Tailoring the policy file
 Smaller organizations may want to deploy AntiSamy in a default configuration, but it's equally likely that a site may want to have strict, business-driven rules for what users can allow. The discussion that decides the tailoring should also consider attack surface - which grows in relative proportion to the policy file.
 
-You may also want to enable/modify some "directives", which are basically advanced user options. [This page](https://wiki.owasp.org/index.php/AntiSamy_Directive) tells you what the directives are and which versions support them.
+You may also want to enable/modify some "directives", which are basically advanced user options. [This page](https://wiki.owasp.org/index.php/AntiSamy_Directives) tells you what the directives are and which versions support them.
 
 ## Stage 4 - Calling the AntiSamy API
 Using AntiSamy is easy. Here is an example of invoking AntiSamy with a policy file:

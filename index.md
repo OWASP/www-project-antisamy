@@ -11,7 +11,7 @@ pitch: AntiSamy is a Java component that can sanitize HTML/CSS to eliminate pote
 ---
 <!-- rebuild 40 -->
 
-[![OWASP incubator](https://img.shields.io/badge/owasp-incubator%20project-blue)](https://www2.owasp.org/projects#div-incubator)
+[![OWASP incubator](https://img.shields.io/badge/owasp-incubator%20project-blue)](https://www.owasp.org/projects)
 
 ## OWASP AntiSamy
 
@@ -32,11 +32,11 @@ OWASP AntiSamy provides:
 This page shows a big-picture comparison between the versions. Since it's an unfunded open source project, the ports can't be expected to mirror functionality exactly. If there's something a port is missing -- let us know, and we'll try to accommodate, or write a patch!
 
 ### Presentations
-From OWASP & WASC AppSec U.S. 2007 Conference (San Jose, CA): AntiSamy - [Picking a Fight with XSS (ppt)](http://www.owasp.org/images/e/e9/OWASP-WASCAppSec2007SanJose_AntiSamy.ppt) - by Arshan Dabirsiaghi - AntiSamy project lead
+From OWASP & WASC AppSec U.S. 2007 Conference (San Jose, CA): AntiSamy - [Picking a Fight with XSS (ppt)](https://owasp.org/www-project-antisamy/assets/files/OWASP-WASCAppSec2007SanJose_AntiSamy.ppt) - by Arshan Dabirsiaghi - AntiSamy project lead
 
-From OWASP AppSec Europe 2008 (Ghent, Belgium): [The OWASP AntiSamy project (ppt)](http://www.owasp.org/images/4/47/AppSecEU08-AntiSamy.ppt) - by Jason Li - AntiSamy project contributor
+From OWASP AppSec Europe 2008 (Ghent, Belgium): [The OWASP AntiSamy project (ppt)](https://owasp.org/www-project-antisamy/assets/files/AppSecEU08-AntiSamy.ppt) - by Jason Li - AntiSamy project contributor
 
-From OWASP AppSec India 2008 (Delhi, India): [Validating Rich User Content (ppt)](https://www.owasp.org/images/9/9d/AppSecIN08-ValidatingRichUserContent.ppt) - by Jason Li - AntiSamy project contributor
+From OWASP AppSec India 2008 (Delhi, India): [Validating Rich User Content (ppt)](https://owasp.org/www-project-antisamy/assets/files/AppSecIN08-ValidatingRichUserContent.ppt) - by Jason Li - AntiSamy project contributor
 
 From Shmoocon 2009 (Washington, DC): AntiSamy - [Picking a Fight with XSS (pptx)](https://slideplayer.com/slide/4360528/) - by Arshan Dabirsiaghi - AntiSamy project lead
 
