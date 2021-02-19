@@ -15,8 +15,9 @@ The following ports of AntiSamy are known to exist:
 Daniel Bower created a [Grails plugin](https://github.com/danieldbower/grails-sanitizer) for AntiSamy. No updates since 2015 however.
 
 2 related projects built on top of the OWASP ESAPI for Java library (which uses AntiSamy for Java under the hood) are:
-[grails-xss-sanitizer](https://github.com/rpalcolea/grails-xss-sanitizer) - This supports Grails 3 and is a port of the following:
-[XssSanitizer](https://github.com/tonyzampogna/XssSanitizer) - Supports Grails 2
+
+* [grails-xss-sanitizer](https://github.com/rpalcolea/grails-xss-sanitizer) - This supports Grails 3 and is a port of the following:
+* [XssSanitizer](https://github.com/tonyzampogna/XssSanitizer) - Supports Grails 2
 
 ## .NET
 A .NET port of AntiSamy is available at the 
