@@ -79,7 +79,7 @@ a site may want to have strict, business-driven rules for what users can allow. 
 the tailoring should also consider attack surface - which grows in relative proportion to the policy file.
 
 You may also want to enable/modify some "directives", which are basically advanced user options.
-[This page](https://wiki.owasp.org/index.php/AntiSamy_Directives) tells you what the directives are and which
+[This page](https://github.com/nahsra/antisamy/wiki/AntiSamy-Directives) tells you what the directives are and which
 versions support them.
 
 ## Stage 4 - Calling the AntiSamy API

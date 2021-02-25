@@ -50,8 +50,8 @@ Under these guidelines, AntiSamy is distributed under a
 ### What is AntiSamy?
 OWASP AntiSamy provides:
 
-[This page](https://wiki.owasp.org/index.php/AntiSamy_Version_Differences) shows a big-picture comparison between 
-the versions. Since it's an unfunded open source project, the ports can't be expected to mirror functionality 
+[This page](https://github.com/nahsra/antisamy/wiki/AntiSamy-Core-Features) shows a big-picture comparison between
+the versions. Since it's an unfunded open source project, the ports can't be expected to mirror functionality
 exactly. If there's something a port is missing -- let us know, and we'll try to accommodate, or write a patch!
 
 ### Presentations

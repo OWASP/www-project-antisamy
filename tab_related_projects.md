@@ -20,11 +20,9 @@ Daniel Bower created a [Grails plugin](https://github.com/danieldbower/grails-sa
 * [XssSanitizer](https://github.com/tonyzampogna/XssSanitizer) - Supports Grails 2
 
 ## .NET
-A .NET port of AntiSamy is available at the 
-[OWASP AntiSamy .NET page](https://wiki.owasp.org/index.php/Category:OWASP_AntiSamy_Project_.NET). 
-The project was funded by a Summer of Code 2008 grant and was developed by Jerry Hoff. However, this 
-version of AntiSamy has not been updated in a while, and is looking for a few good developers to help 
-make it feature-synchronized with the Java version. 
+A new (2020+) .NET port of AntiSamy is available at the
+[OWASP AntiSamy .NET project](https://github.com/spassarop/antisamy-dotnet/). This version of AntiSamy is looking for a
+few good developers to help make it feature-synchronized with the Java version.
 
 If it doesn't suit your needs, consider 
 [Microsoft's AntiXSS library](https://archive.codeplex.com/?p=wpl). However, this library is now end 
@@ -36,5 +34,6 @@ A port of AntiSamy to Python was attempted, but has been abandoned since 2010. M
 you check out project [Bleach instead](https://pypi.org/project/bleach/).
 
 ## PHP
-Although a PHP version was initially planned, but we now suggest 
+Although a PHP version was initially planned, we now suggest
 [HTMLPurifier](http://htmlpurifier.org/) for safe rich input validation for PHP applications.
+
