@@ -1,5 +1,6 @@
 ### Leaders
 
 * [Dave Wichers](mailto://dave.wichers@owasp.org) (Maintainer)
-* [Arshan Dabirsiaghi](mailto://arshan.dabirsiaghi@owasp.org) (Project Lead)
+* [Sebastian Passaro](mailto://sebastian.passaro@owasp.org) (Maintainer)
+* Arshan Dabirsiaghi (Project Lead)
 
