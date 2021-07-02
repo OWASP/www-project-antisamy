@@ -18,7 +18,7 @@ pitch: AntiSamy is a Java component that can sanitize HTML/CSS to eliminate pote
 
 AntiSamy was originally authored by Arshan Dabirsiaghi (arshan.dabirsiaghi [at] gmail.com) of Contrast 
 Security with help from Jason Li (jason.li [at] owasp.org) and is currently maintained by 
-Dave Wichers (dave.wichers [at] owasp.org).
+Dave Wichers (dave.wichers [at] owasp.org) and Sebastian Passaro (sebastian.passaro [at] owasp.org).
 
 ### Description
 The OWASP AntiSamy project is a few things. Technically, it is an API for ensuring user-supplied HTML/CSS is 
