@@ -44,7 +44,7 @@ out on the web. Simply rejecting their input without any clue as to why is jolti
 go somewhere else to do their social networking.
 
 The OWASP licensing policy allows OWASP projects to be released under any 
-[approved open source license](http://www.opensource.org/licenses/alphabetical). 
+[approved open source license](https://www.opensource.org/licenses/alphabetical). 
 Under these guidelines, AntiSamy is distributed under a 
 [BSD license](https://opensource.org/licenses/BSD-3-Clause).
 
@@ -73,4 +73,4 @@ AntiSamy - [Picking a Fight with XSS (pptx)](https://slideplayer.com/slide/43605
 by Arshan Dabirsiaghi - AntiSamy project lead
 
 ### News and Events
-[28 Sep 2017] Please update AntiSamy to 1.5.7 or later per CVE-2017-14735 and CVE-2016-10006
+[3 July 2021] Please update AntiSamy to 1.6.4 or later to avoid CVE-2021-35043, CVE-2017-14735, and CVE-2016-10006.
