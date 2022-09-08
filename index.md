@@ -74,3 +74,5 @@ by Arshan Dabirsiaghi - AntiSamy project lead
 
 ### News and Events
 [3 July 2021] Please update AntiSamy to 1.6.4 or later to avoid CVE-2021-35043, CVE-2017-14735, and CVE-2016-10006.
+[10 Apr 2022] Please update AntiSamy to 1.6.7 or later to additionally avoid CVE-2022-28367 and CVE-2022-29577
+We always recommend using the latest available release to not only eliminate direct vulnerabilities, but any vulnerabilities in dependencies that have been upgraded.

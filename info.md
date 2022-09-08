@@ -12,7 +12,7 @@
 
 ### Contacts
 * [Report an issue](https://github.com/nahsra/antisamy/issues)
-* [Contributing](mailto://dave.wichers@owasp.org)
+* [Contributing](https://github.com/nahsra/antisamy/blob/main/README.md#contributing-to-antisamy)
 
 ### Licensing
 * [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
