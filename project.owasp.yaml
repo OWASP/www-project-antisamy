@@ -1,0 +1,27 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Dave Wichers
+    email: dave.wichers@owasp.org
+    github: davewichers
+  - name: Sebastian Passaro
+    email: sebastian.passaro@owasp.org
+    github: spassarop
+level: 3
+license:
+  - BSD-3-Clause
+name: OWASP AntiSamy
+pitch: AntiSamy is a Java component that can sanitize HTML/CSS to eliminate potentially malicious JavaScript.
+repositories:
+  - name: www-project-antisamy
+    url: https://github.com/OWASP/www-project-antisamy
+  - name: antisamy
+    url: https://github.com/nahsra/antisamy
+    description: a library for performing fast, configurable cleansing of HTML coming from untrusted sources
+tags:
+  - antisamy
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-antisamy
